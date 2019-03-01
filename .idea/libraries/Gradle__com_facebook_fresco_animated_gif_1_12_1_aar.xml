@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:animated-gif:1.12.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-gif-1.12.1.aar/9213802ded695f5fa438e8374025d2f6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-gif-1.12.1.aar/9213802ded695f5fa438e8374025d2f6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/animated-gif/1.12.1/ad6fa8d9a504810d311b631c0a838b1347edd45e/animated-gif-1.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
